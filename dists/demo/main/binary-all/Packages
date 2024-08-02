@@ -1,0 +1,71 @@
+Package: androvirus
+Version: 2.0.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: php,openssh
+Installed-Size: 21118
+Description: Collection of 10 viruses which can damage any android device
+Filename: dists/demo/main/binary-all/androvirus.deb
+Size: 20397648
+MD5Sum: da9e1508a1ba38f2ccfa50f99a2977a2
+SHA1: f4f66485e43ad49ed98794f700b556bb23124a0c
+SHA256: 4a0bc88b07081d900c7cb4059e6fec1361f6538f97bb4e48fd2e3ec9ff9e669b
+SHA512: a1a9cc7075be357b8baeedcb6a0425fa7de0e6329332ba6d0838fcdafac6572b8a392cdaaaa047ca500f9f9e88d47608553655513ba98d6f54cf5a81d3f9fcec
+
+Package: instabot
+Insalled-Size: 25
+Maintainer: devil
+Architecture: all
+Description: deb package
+Version: 1.0
+Filename: dists/demo/main/binary-all/instabot.deb
+Size: 2040
+MD5Sum: 68c1c3499db602f2990a4c673348eb92
+SHA1: e4d95f95a34caeb4bbef3555f788485415cea678
+SHA256: 3bcb8ae68ad26c6cc483991f31805722745276785dd9717185edd8a4cade9a2b
+SHA512: 1111d02e48c42c7882e17c53efea2aeba169dc58f912711783481aedbbd5719275d8536c83b807bbe4e50b88cb4ba32a33990465e44b50736e75b8d7e83350be
+
+Package: instainfo
+Version: 1.0.1
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3
+Maintainer: Your Name <darkdevil>
+Description: Instainfo tool
+ A simple tool for displaying system information.
+Filename: dists/demo/main/binary-all/instainfo.deb
+Size: 1680
+MD5Sum: 17f0f9fc52711f7927fe16fa2c2bdc88
+SHA1: 1a693eb3c1d2d4dacf27c32be82066d70e05bfa2
+SHA256: ab480a7798a0f986c91567f9d4f3611316832c66bb086b7a4d6436ef62e3a92d
+SHA512: d53350004ae35537d3b57e07f94749a39e82a46dab0af2114c9bdefbc6eac51c725298d97619af0b0fa01ca7ec146821c2d5b427bc4f8298e5dd9ae31ef582c6
+
+Package: phoneinfo
+Version: 1.0.1
+Maintainer: Alienkrishn [Anon4You]
+Architecture: all
+Depends: termux-tools,termux-exec,figlet,jq
+Installed-Size: 36
+Description: Phone number lookup tool for termux
+Filename: dists/demo/main/binary-all/phoneinfo.deb
+Size: 1432
+MD5Sum: 204ae6eea1afe9fdd24cfe20c891703a
+SHA1: ecf04cef14d27e65154e52fb8a2610863551662e
+SHA256: 565d6042126a9d8052c0e52fd7a61e83d6d834a67a3ffcc93efd0eb92aceac9d
+SHA512: fd5cfc35cfaf15a41ec2eedc012d32556db1cefe685d675548079323df3ae491ea573ddcf4873eaf70f183e9e433ead7476d457770887bdfdaa7a91d49acc391
+
+Package: webserver
+Architecture: all
+Version: 1.1
+Installed-Size: 4.0
+Maintainer: Alienkrishn [Anon4You]
+Description: a simple webserver for termux
+Depends: php, figlet, openssh
+Filename: dists/demo/main/binary-all/webserver.deb
+Size: 1208
+MD5Sum: 1104b85ad954117966a023c3dee5e0e9
+SHA1: cb5d279eeae31fc837e25403c4fd9b04a8c3577e
+SHA256: 4d932a301a97eadbc955862be36271f920bcdef5c7a9cf4ec462d06dea36b697
+SHA512: 84b31e5d8572274be3f3f003080e7ce1e93c5273c789a62469ee38020f24ceb2a199c706088d963aecfce931ffa3bd201081bbcc67a9335733c76014ff3c4aef
+
